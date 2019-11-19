@@ -19,6 +19,7 @@ def map_to_no_change(array)
     i += 1
   end
   new_array
+<<<<<<< HEAD
 end
 
 
@@ -88,3 +89,6 @@ end
 
 
 
+=======
+end
+>>>>>>> 4791c7f1a2171686787e28948c315d7f197bf040
